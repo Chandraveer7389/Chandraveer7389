@@ -135,17 +135,17 @@
 </p>
 
 <!-- GitHub Stats Section -->
-<h2 align="center">
+<!-- <h2 align="center">
   <img src="https://user-images.githubusercontent.com/74038190/216122180-c5e0e1a1-4de6-4a7c-b685-8aebd9aee10e.png" width="30" />
   GitHub Stats
-</h2>
+</h2> -->
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Chandraveer7389&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Chandraveer7389&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" /> -->
 </div>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Chandraveer7389&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <!-- <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Chandraveer7389&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" /> -->
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Chandraveer7389&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Streak Stats" /> 
 </p>
 
@@ -157,31 +157,31 @@
 ---
 
 <!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<!-- <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"> -->
 
 <!-- Contribution Snake -->
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Chandraveer7389/Chandraveer7389/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Chandraveer7389/Chandraveer7389/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Chandraveer7389/Chandraveer7389/output/github-snake.svg" />
-</picture>
+</picture> -->
 
 <!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<!-- <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"> -->
 
 <!-- Footer -->
-<h2 align="center">
+<!-- <h2 align="center">
   <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="30" />
   Let's Collaborate!
-</h2>
+</h2> -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="300" />
-</p>
+</p> -->
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</div>
+</div> -->
 
 <div align="center">
   ⭐️ From <a href="https://github.com/Chandraveer7389">Chandraveer (Veer)</a>
